@@ -1,0 +1,94 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Poppins&display=swap');
+
+
+*{
+    margin: 0px;
+}
+
+body{
+    width: 100%;
+    background-color: #3b3d62;
+
+    
+}
+
+.container-bg{
+    background-image: url("sehun.jpg");
+    background-size: 80%;
+    margin: 0;
+
+
+}
+
+.card{
+    width: 50%;
+}
+
+.title{
+    color: white;
+}
+
+.outline-white
+{
+    color: #cc98a6;
+    /* text-shadow:
+    -0.5px -0.5px 0 #fff,
+    0.5px -0.5px 0 #fff,
+    -0.5px 0.5px 0 #fff,
+    0.5px 0.5px 0 #fff;   */
+}
+
+.name{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.scane{
+    height: 100vh;
+}
+.next{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 100%;
+    background-color: #33699d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-ungu img{
+    width: 100%;
+}
+
+.font-poppin{
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn-ungu{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    background-color: #33699d !important;
+}
+
+.btn-ungu:hover { 
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    background-color: #22496d !important;
+}
+
+.fitting-image {
+    width: 16rem;
+    height: 250px;
+    object-fit: cover;
+  }
+
+  .bye{
+    font-family: 'Caveat', cursive;
+    color: white;
+  }
+
+  .kue{
+    width: 100%;
+  }
